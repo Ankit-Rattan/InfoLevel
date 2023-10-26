@@ -3,10 +3,8 @@
 Tech stack used : 
 <br>
 -React
-
 <br>
 -Tailwind CSS
-
 <br>
 -Firebase
 
