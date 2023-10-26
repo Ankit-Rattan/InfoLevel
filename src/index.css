@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    /* background-color: #323334; */
+    background-image: url("../public/home-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
