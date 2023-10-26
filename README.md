@@ -8,7 +8,7 @@ Tech stack used :
 <br>
 -Firebase
 
-InfoLevel is general web-app for storing contact details like name and email.
+InfoLevel is general web-app for storing contact details like name and email, collecting real-time data.
 
 # React + Vite
 
