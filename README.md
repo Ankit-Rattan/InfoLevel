@@ -1,8 +1,13 @@
 
 # InfoLevel 
 Tech stack used : 
+<br>
 -React
+
+<br>
 -Tailwind CSS
+
+<br>
 -Firebase
 
 InfoLevel is general web-app for storing contact details like name and email.
